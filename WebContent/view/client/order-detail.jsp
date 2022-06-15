@@ -1,8 +1,4 @@
-<%-- 
-    Document   : list-orders
-    Created on : Jun 14, 2022, 8:13:29 PM
-    Author     : Vostro 5568
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib uri = "http://java.sun.com/jsp/jstl/core" prefix = "c" %>

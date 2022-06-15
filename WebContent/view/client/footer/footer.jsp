@@ -41,7 +41,7 @@
                     <address>
                       <p>236 Hoàng Quốc Việt - Bắc Từ Liêm - Hà Nội</p>
                       <p><span class="fa fa-phone"></span>0393.158.269</p>
-                      <p><span class="fa fa-envelope"></span>webnongsan@gmail.com</p>
+                      <p><span class="fa fa-envelope"></span>hoangxuanvinhnhat@gmail.com</p>
                     </address>
                     <div class="aa-footer-social">
                       <a href="#"><span class="fab fa-facebook"></span></a>

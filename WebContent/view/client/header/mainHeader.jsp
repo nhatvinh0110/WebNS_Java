@@ -27,7 +27,7 @@
     <!-- price picker slider -->
     <link rel="stylesheet" type="text/css" href="${url}/css/nouislider.css">
     <!-- Theme color -->
-    <link id="switcher" href="${url}/css/theme-color/default-theme.css" rel="stylesheet">
+    <link id="switcher" href="${url}/css/theme-color/green-theme.css" rel="stylesheet">
     
     <!-- Top Slider CSS -->
     <link href="${url}/css/sequence-theme.modern-slide-in.css" rel="stylesheet" media="all">

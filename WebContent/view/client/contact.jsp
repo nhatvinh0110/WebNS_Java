@@ -1,8 +1,3 @@
-<%-- 
-    Document   : index
-    Created on : May 5, 2020, 10:57:00 PM
-    Author     : LENOVO
---%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <%@ taglib uri = "http://java.sun.com/jsp/jstl/core" prefix = "c" %>
@@ -54,9 +49,9 @@
                    <address>
                      <h4>Nông Sản 24</h4>
                      <p>Liên hệ cho chúng tôi bất cứ khi nào bạn cần.</p>
-                     <p><span class="fa fa-home"></span>Nông Sản, Khu phố 6, Linh Trung, Thủ Đức, TP.HCM</p>
-                     <p><span class="fa fa-phone"></span>037.7026.186</p>
-                     <p><span class="fa fa-envelope"></span>Email: contact@nongsan24.com</p>
+                     <p><span class="fa fa-home"></span>236 Hoàng Quốc Việt, Bắc Từ Liêm, Hà Nội</p>
+                     <p><span class="fa fa-phone"></span>0384.4830.91</p>
+                     <p><span class="fa fa-envelope"></span>Email: hoangxuanvinhnhat@gmail.com</p>
                    </address>
                  </div>
                </div>

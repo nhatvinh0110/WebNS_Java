@@ -22,7 +22,7 @@
   </section>
   <section id="aa-product-category">
     <div class="container">
-      <div class="row">
+      <div class="row" style=""background-color: #3fc35f !important;>
       	<div>
       		<h1 style ="text-align: center; color: red;">Các hình thức thanh toán của Nông Sản 24h</h1>
       		<p>Hiện tại đối với các đơn hàng đặt hàng trực tuyến trên website, <strong>Nông Sản 24h</strong> có những hình thức thanh toán như sau:</p>
